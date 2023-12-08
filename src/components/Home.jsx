@@ -68,6 +68,7 @@ const Container = styled.div`
 `
 const Footer = styled.div`
     text-align: center;
-    font-style: italic;
+    
     background-color: rgba(211, 211, 211, 0.5);
+    text-transform: uppercase;
 `
