@@ -90,6 +90,7 @@ display: flex;
 flex: 1;
 align-item: center;
 justify-content: center;
+margin-left: 155px;
 a{
     font-weight: 600;
     text-transform: uppercase;
